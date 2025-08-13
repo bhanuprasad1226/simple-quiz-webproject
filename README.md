@@ -12,6 +12,27 @@ At the end of the quiz, your score is displayed based on the answers you selecte
 - Simple & responsive UI – Styled with CSS for a clean look.
 
 - Pure client-side – Runs entirely in the browser.
+## 📂 Project Structure
+```bash
+simple-quiz-webproject/
+│
+├── index.html     # Main quiz layout
+├── style.css      # Styling for the quiz
+└── script.js      # Quiz logic and score calculation
+```
+## 🚀 Getting Started
+**1. Clone the repository**
+```bash
+git clone https://github.com/bhanuprasad1226/simple-quiz-webproject.git
+```
+**2. Open in browser**
+
+Simply open the `index.html` file in any modern web browser.
+
+
+
+
+
 
 
 
