@@ -28,6 +28,11 @@ git clone https://github.com/bhanuprasad1226/simple-quiz-webproject.git
 **2. Open in browser**
 
 Simply open the `index.html` file in any modern web browser.
+## 🌐 Live Demo
+**[Play the Quiz on GitHub Pages](https://bhanuprasad1226.github.io/simple-quiz-webproject/)**
+
+
+
 
 
 
