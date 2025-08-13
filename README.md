@@ -33,7 +33,7 @@ Simply open the `index.html` file in any modern web browser.
 ## 🖥️ How to Play
 **1. Read each question carefully.**
 
-**2. Select one option by clicking the radio button.**
+**2. Select one option by clicking.**
 
 **3. Click the Next button to proceed to the next question.**
 
