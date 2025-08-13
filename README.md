@@ -30,6 +30,22 @@ git clone https://github.com/bhanuprasad1226/simple-quiz-webproject.git
 Simply open the `index.html` file in any modern web browser.
 ## 🌐 Live Demo
 **[Play the Quiz on GitHub Pages](https://bhanuprasad1226.github.io/simple-quiz-webproject/)**
+## 🖥️ How to Play
+**1. Read each question carefully.**
+
+**2. Select one option by clicking the radio button.**
+
+**3. Click the Next button to proceed to the next question.**
+
+**4. After answering all questions, your score will be displayed.**
+## 🛠️ Technologies Used
+- **HTML** – For the quiz structure.
+
+- **CSS** – For styling and layout.
+
+- **JavaScript** – For quiz logic and interactivity.
+
+
 
 
 
